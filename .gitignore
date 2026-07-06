@@ -1,0 +1,9 @@
+node_modules/
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Interview prep notes - kept local only, not pushed publicly
+LEARNING_LOG.md
+TEST_PLAN.md
+SOLO_WORKFLOW.md
